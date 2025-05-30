@@ -33,3 +33,7 @@ The data is simulated for the purpose of this project and structured similarly t
 - `dominosKPi.pptx` – Slide deck explaining project scope and metrics
 - `khushidominossql.sql` - SQL queries in workbench
 
+## 🔗 Live Project Repository
+View the full project with PBIX file, report design, and documentation:  
+👉 [Domino’s Sales Dashboard GitHub Repo](https://github.com/khushitamrkar99/Dominos-sales-Report)
+
